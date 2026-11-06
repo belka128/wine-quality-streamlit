@@ -2,6 +2,9 @@
 # Wine Quality Prediction
 Приложение прогнозирует вероятность хорошего вина по 12 признакам.
 
+## Демо
+https://wine-quality-belka128.streamlit.app/
+
 ## Запуск
 Python 3.12.3
 Из корневой папки проекта выполнить:
