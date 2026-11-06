@@ -11,8 +11,8 @@ Python 3.12.3
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r wine_app/requirements.txt
-streamlit run wine_app/app.py
+pip install -r requirements.txt
+streamlit run app.py
 ```
 
 Приложение откроется в http://localhost:8501.
